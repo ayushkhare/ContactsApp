@@ -21,6 +21,7 @@ public class HomeActivity extends AppCompatActivity {
     Toolbar mToolbar;
     //comment1
     //comment2
+    //comment3&4
     @Bind(R.id.tab_layout)
     TabLayout mTabLayout;
 
